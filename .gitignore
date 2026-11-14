@@ -1,0 +1,29 @@
+# Java / Maven
+backend/target/
+*.class
+*.jar
+*.war
+
+# Node / Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/coverage/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment variables
+.env
+.env.*
+!.env.vars
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
