@@ -34,7 +34,7 @@ city-events/
 ├── docker/
 ├── docs/
 ├── compose.yaml
-├── .env.vars
+├── .env.example
 └── README.md
 ```
 
